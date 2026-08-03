@@ -24,7 +24,8 @@ My interests span across **Full Stack Development, Software Engineering, Compute
 
 ### 🌱 Currently Learning
 
-- Data Structures & Algorithms
+- WebDev
+- Python
 - React.js Ecosystem
 - Node.js & Express.js
 - MongoDB
