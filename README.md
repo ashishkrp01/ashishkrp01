@@ -119,12 +119,6 @@ My interests span across **Full Stack Development, Software Engineering, Compute
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</p>
-
-<p align="center">
-
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
 
 </p>
