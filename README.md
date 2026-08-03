@@ -98,82 +98,6 @@ My interests span across **Full Stack Development, Software Engineering, Compute
 
 <br>
 
-### 🌐 Internet Technology Lab
-
-✔ Socket Programming
-
-✔ WebSocket Applications
-
-✔ AI Chat Application
-
-✔ Flight Booking System
-
-✔ REST APIs
-
-<br>
-
-### 🌐 Computer Networks Lab
-
-✔ Cisco Packet Tracer
-
-✔ DNS
-
-✔ DHCP
-
-✔ Routing & Switching
-
-✔ Wireshark Analysis
-
-<br>
-
-### ⚙ Compiler Design Lab
-
-✔ Flex (LEX)
-
-✔ Bison (YACC)
-
-✔ Lexical Analyzer
-
-✔ Parser Generation
-
-✔ Compiler Construction
-
----
-
-# 📜 Certifications
-
-🏆 NPTEL — Joy of Computing using Python
-
-🏆 NPTEL — Programming with Generative AI
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&margin-w=15"/>
-
-</p>
-
 ---
 
 # 📫 Connect With Me
@@ -184,12 +108,8 @@ My interests span across **Full Stack Development, Software Engineering, Compute
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+<a href="https://www.linkedin.com/in/ashish-kumar-paswan-68a16730a">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 </p>
