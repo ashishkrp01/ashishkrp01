@@ -22,18 +22,13 @@ My interests span across **Full Stack Development, Software Engineering, Compute
 
 <br>
 
+
+
 ### 🌱 Currently Learning
 
-- WebDev
 - Python
-- React.js Ecosystem
-- Node.js & Express.js
-- MongoDB
-- REST APIs
-- System Design Fundamentals
-- Operating Systems
-- Computer Networks
-- Open Source Development
+- WebDev
+- AI/ML
 
 ---
 
@@ -42,7 +37,7 @@ My interests span across **Full Stack Development, Software Engineering, Compute
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
+<img src="https://skillicons.dev/icons?i=c,java,python,html,css,javascript" />
 </p>
 
 ### Frontend
@@ -66,7 +61,7 @@ My interests span across **Full Stack Development, Software Engineering, Compute
 ### Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
 ---
