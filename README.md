@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ashish Kumar Paswan</h1>
 
 <h3 align="center">
-🚀 Computer Science & Engineering Undergraduate | Full Stack Web Developer | Open Source Enthusiast
+🚀 Computer Science & Engineering Undergraduate | Web Developer | Machine Learning Explorer | Python Developer | Deep Learning Learner
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full+Stack+Web+Developer;Problem+Solver+%7C+Continuous+Learner;Building+Scalable+Web+Applications;Open+Source+Contributor+in+Progress" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Web+Developer;Problem+Solver+%7C+Continuous+Learner;Building+Scalable+Web+Applications" />
 </p>
 
 ---
@@ -18,11 +18,9 @@ Passionate about building technology that solves real-world problems and creates
 
 💻 I enjoy transforming ideas into scalable, user-friendly applications while continuously improving my problem-solving and software engineering skills.
 
-My interests span across **Full Stack Development, Software Engineering, Computer Networks, Compiler Design, Databases, and Modern Web Technologies**.
+My interests span across ** Web Development, Software Engineering, Computer Networks, Compiler Design, Databases, and Modern Web Technologies**.
 
 <br>
-
-
 
 ### 🌱 Currently Learning
 
@@ -61,7 +59,7 @@ My interests span across **Full Stack Development, Software Engineering, Compute
 ### Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
@@ -93,6 +91,9 @@ My interests span across **Full Stack Development, Software Engineering, Compute
 ✔ Interactive Dashboard
 
 <br>
+
+### Personal Portfolio Website
+A responsive personal portfolio site to showcase projects and skills. 
 
 ---
 
