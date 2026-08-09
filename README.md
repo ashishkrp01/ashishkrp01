@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Web+Developer;Python +Developer;Machine+Learning+Explorer;Deep+Learning+Learner;Problem+Solver+%7C+Continuous+Learner;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Web+Developer;Python+Developer;Machine+Learning+Explorer;Deep+Learning+Learner;Problem+Solver+%7C+Continuous+Learner" />
 </p>
 
 ---
@@ -92,9 +92,16 @@ My interests span across ** Web Development, Software Engineering, Computer Netw
 
 <br>
 
-### Personal Portfolio Website
-A responsive personal portfolio site to showcase projects and skills. 
+### 🌐 Personal Portfolio Website
 
+A modern and responsive personal portfolio website designed to showcase my **projects, technical skills, education, and achievements**.
+
+- ✔️ Responsive & Mobile-Friendly Design
+- ✔️ Interactive User Interface
+- ✔️ Projects Showcase
+- ✔️ Skills & Education Section
+- ✔️ Contact Section
+- ✔️ Built with **HTML, CSS & JavaScript**
 ---
 
 # 📫 Connect With Me
