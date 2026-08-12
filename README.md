@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1200&color=3B82F6&center=true&vCenter=true&width=1000&lines=Building+Practical+Projects....;CSE+Student...;Full-Stack+Web+Developer...;Python+%7C+Java+%7C+C+Programmer...;SQL+%26+Database+Enthusiast...;Open+to+Opportunities..."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1200&color=3B82F6&center=true&vCenter=true&width=1000&lines=Building+Practical+Projects....;CSE+Student.;Full-Stack+Web+Developer...;Python+%7C+Java+%7C+C+Programmer...;SQL+%26+Database+Enthusiast...;Open+to+Opportunities..."/>
 <br>
 
 <p align="center">
@@ -142,7 +142,7 @@ I'm currently developing my expertise in **Full-Stack Web Development**, buildin
 <td width="33%">
 
 ### 🛒 E-commerce Amazon Clone
-**HTML, CSS**
+**HTML, CSS, JS**
 
 Built a responsive Amazon-inspired e-commerce clone featuring user authentication, product browsing, and shopping cart functionality.
 
@@ -223,7 +223,7 @@ Cricket • Gardening • Reading Books • Listening to Music
 
 </div>
 
-```
+---
 
 > **"The goal isn't to know everything. The goal is to become better than yesterday through consistent learning and building."**
 
@@ -237,15 +237,13 @@ Cricket • Gardening • Reading Books • Listening to Music
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="tel:+919903097504">
-<img src="https://img.shields.io/badge/Phone-+91--9903097504-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
 
 <a href="https://www.linkedin.com/in/ashishkrp01/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </div>
+
 ---
 
 <div align="center">
